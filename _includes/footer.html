@@ -1,0 +1,74 @@
+<!-- Footer -->
+<footer class="footer" id="footer" style="background-color: white">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <span class="copyright"
+          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
+        >
+      </div>
+      <!-- Social Media -->
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for link in site.data.sitetext[site.locale].footer.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- Legal -->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            <a href="legal"
+              >{{ site.data.sitetext[site.locale].footer.legal | default:
+              "プライバシーポリシー" }}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v3.2'
+    });
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="1964757066968313">
+</div>
+{% if page.layout == "page" %}
+<script>
+  fixPageShort();
+  function fixPageShort() {
+    if (window.innerHeight > document.body.offsetHeight) {
+      document.getElementById("footer").style.position = "fixed";
+      document.getElementById("footer").style.bottom = 0;
+      document.getElementById("footer").style.right = 0;
+      document.getElementById("footer").style.left = 0;
+      document.getElementById("footer").style.width = "100%";
+    }
+  }
+</script>
+{% endif %}
+<!-- End Footer -->
