@@ -33,14 +33,7 @@
       </div>
     </div>
   </div>
-  <!-- Your customer chat code -->
-<div class="fb-customerchat"
-  attribution=setup_tool
-  page_id="100083302780664"
-  minimized="false">
-</div>
 </footer>
-
 {% if page.layout == "page" %}
 <script>
   fixPageShort();
@@ -53,24 +46,6 @@
       document.getElementById("footer").style.width = "100%";
     }
   }
-</script>
-<!-- Load Facebook SDK for JavaScript -->
-<script type="text/javascript" src="{{ relative_url }}/assets/lib/imgSale/imgSale.js"></script>
-<script>
-window.fbAsyncInit = function() {
-FB.init({
-  xfbml            : true,
-  version          : 'v3.2'
-});
-};
-
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 </script>
 {% endif %}
 <!-- End Footer -->

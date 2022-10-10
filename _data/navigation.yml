@@ -11,20 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
+    - title: "HOME"
+      url: https://www.hditv.app
+    - title: "Product"
+      url: https://www.hditv.app/#services
+    - title: "Price"
+      url: https://www.hditv.app/#portfolio
     - title: "About"
-      section: about
+      url: https://www.hditv.app/#about
     - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
+      url: https://www.hditv.app/#timeline
+    - title: "Free Trial"
+      url: https://www.hditv.app/#team
+    - title: "Download"
+      url: https://www.hditv.app/#clients
     - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://www.hditv.app/#contact
+    - title: "Channels"
+      url: https://www.hditv.app/channel-list
 en-US:
   <<: *DEFAULT_EN
 en-CA:
