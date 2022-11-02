@@ -80,7 +80,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Best Supplier in IPTV Market"
-    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!<br>https://b2.gotv.shop/rapidrouter-test.mp4"
+    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!<br><iframe width="330" height="86" src="https://b2.gotv.shop/rapidrouter-test.mp4" frameborder="0" > </iframe>"
     section: about
 
   clients:
