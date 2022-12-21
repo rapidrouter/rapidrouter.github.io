@@ -5,8 +5,8 @@ image: assets/img/portfolio/03-full.jpg
 alt:
 
 caption:
-  title: Year Subscription
-  subtitle: RMB 300
+  title: Semi-Year Subscription
+  subtitle: Subscription
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 Semi-Year (6 Months) Subscription
