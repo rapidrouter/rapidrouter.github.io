@@ -118,7 +118,7 @@ en: &DEFAULT_EN
         image: assets/img/team/1.jpg
       - name: "t.me/rapidrouter"
         role: ""
-        image: assets/img/team/2.jpg
+        image: assets/img/network-efficiency.gif
 
   contact:
     title: "Contact Us"
