@@ -1,17 +1,17 @@
 ---
-title: Semi-Year Subscription
-subtitle: RMB 300
+title: Year Subscription
+subtitle: RMB 500
 image: assets/img/portfolio/03-full.jpg
 alt:
 
 caption:
   title: Year Subscription
-  subtitle: RMB 300
+  subtitle: RMB 500
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Semi-Year (6 Months) Subscription
+Year (12 Months) Subscription
 
-Once Subscribed, customers will get 182 days + 7 days (Free Trial).
+Once Subscribed, customers will get 365 days + 7 days (Free Trial).
 
 Alipay、WeChat、Visa、Master、Bitcoin and other crypto currencies accepted
 

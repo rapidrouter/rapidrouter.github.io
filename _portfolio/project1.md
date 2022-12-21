@@ -1,17 +1,17 @@
 ---
-title: Quarter Subscription
-subtitle: RMB 450
+title: Standard Router
+subtitle: RMB 500
 image: assets/img/portfolio/01-full.jpg
 alt:
 
 caption:
-  title: Quarter Subscription
-  subtitle: RMB 450
+  title: Standard Router
+  subtitle: RMB 500
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Quarter (3 Months) Subscription
+WIFI 5 Netgear Router
 
-Once Subscribed, customers will get 90 days + 7 days (Free Trial).
+Router, Power Cord, Network Cable comes together.
 
 Alipay、WeChat、Visa、Master、Bitcoin and other crypto currencies accepted
 

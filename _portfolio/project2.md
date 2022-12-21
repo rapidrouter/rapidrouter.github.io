@@ -1,17 +1,17 @@
 ---
-title: Semi-Year Subscription
-subtitle: RMB 800
+title: Mesh Router
+subtitle: RMB 650
 image: assets/img/portfolio/01-full.jpg
 alt:
 
 caption:
-  title: Semi-Year Subscription
-  subtitle: RMB 800
+  title: Mesh Router
+  subtitle: RMB 650
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Semi-Year (6 Months) Subscription
+WIFI 6 Router
 
-Once Subscribed, customers will get 180 days + 7 days (Free Trial).
+Router, Power Cord, Network Cable comes together.
 
 Alipay、WeChat、Visa、Master、Bitcoin and other crypto currencies accepted
 
