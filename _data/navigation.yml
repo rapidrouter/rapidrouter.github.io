@@ -23,10 +23,12 @@ en: &DEFAULT_EN
       url: https://rapidrouter.net/#timeline
     - title: "Free Trial"
       url: https://rapidrouter.net/#team
+    - title: "Download"
+      url: https://rapidrouter.net/#clients
     - title: "Contact"
       url: https://rapidrouter.net/#contact
-    - title: "Nodes"
-      url: https://rapidrouter.net/Node-list
+    - title: "Tutorial"
+      url: https://rapidrouter.net/Tutorial
 en-US:
   <<: *DEFAULT_EN
 en-CA:
