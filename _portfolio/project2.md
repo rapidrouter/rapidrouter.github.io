@@ -1,13 +1,13 @@
 ---
 title: Mesh Router
 subtitle: RMB 650
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/02-full.jpg
 alt:
 
 caption:
   title: Mesh Router
   subtitle: RMB 650
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 WIFI 6 Router
 
