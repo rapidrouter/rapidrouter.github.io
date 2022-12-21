@@ -80,7 +80,9 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Best VPN Router Supplier"
-    body: "We have a bunch of nodes across the world with low latency and smart auto-switch function enbedded."
+    body: "We have a bunch of nodes across the world with low latency and smart auto-switch function embedded."
+    image: assets/img/whole-home.gif
+    image: assets/img/network-efficiency.gif
     section: about
 
   iframe:
@@ -114,7 +116,7 @@ en: &DEFAULT_EN
       - name: "WeChat"
         role: ""
         image: assets/img/team/1.jpg
-      - name: "Telegram"
+      - name: "t.me/rapidrouter"
         role: ""
         image: assets/img/team/2.jpg
 
