@@ -14,15 +14,15 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://www.hditv.app" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://www.rapidrouter.net" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : HDiTV app
-email      : info@hditv.app #this is also the email contact forms will go to
-description: "HDiTV APP | Best Android TV app EVER!"
-author     : HDiTV
+title      : Rapid Router
+email      : info@rapidrouter.net #this is also the email contact forms will go to
+description: "Rapid Router | Bring Free Internet to Everyone!"
+author     : Rapid Router
 logo:     #optional, defaults to site title
-  path: hditvlogo.png
+  path: rapidlogo.png
   height: 52 #height in px, defaults to 52px
 
 locale: "en-US"
