@@ -12,23 +12,23 @@
 en: &DEFAULT_EN
   nav:
     - title: "HOME"
-      url: https://www.hditv.app
+      url: https://www.rapidrouter.net
     - title: "Product"
-      url: https://www.hditv.app/#services
+      url: https://rapidrouter.net/#services
     - title: "Price"
-      url: https://www.hditv.app/#portfolio
+      url: https://rapidrouter.net/#portfolio
     - title: "About"
-      url: https://www.hditv.app/#about
+      url: https://rapidrouter.net/#about
     - title: "Timeline"
-      url: https://www.hditv.app/#timeline
+      url: https://rapidrouter.net/#timeline
     - title: "Free Trial"
-      url: https://www.hditv.app/#team
+      url: https://rapidrouter.net/#team
     - title: "Download"
-      url: https://www.hditv.app/#clients
+      url: https://rapidrouter.net/#clients
     - title: "Contact"
-      url: https://www.hditv.app/#contact
-    - title: "Channels"
-      url: https://www.hditv.app/channel-list
+      url: https://rapidrouter.net/#contact
+    - title: "Nodes"
+      url: https://rapidrouter.net/Node-list
 en-US:
   <<: *DEFAULT_EN
 en-CA:
