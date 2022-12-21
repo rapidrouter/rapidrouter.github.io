@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Stable and High Resolution
-    text: Watch TV Everywhere!
+    title: WIFI 6 Mesh Router
+    text: Bring Free Internet!
     button: Learn More
     buttonlink: "#services"
 
@@ -21,20 +21,20 @@ en: &DEFAULT_EN
     text: "Product"
     section: services
     list:
-      - title: "1080P+H265"
-        desc: "Combine 1080P and H265，Low bandwidth, High resolution, stable watch with no lagging."
+      - title: "WIFI 6 Router"
+        desc: "Fully Support WIFI 6 (802.11AX)!"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Fast and Smooth Switch"
-        desc: "Smart Category, swift response, easy operation, no buffering during switch."
+      - title: "AI Mesh Enabled"
+        desc: "Most Advanced Mesh Technology."
         icon: fas fa-laptop
-      - title: "7 Days Rewind"
-        desc: "Rewind function for all channels, 7 days together with EPG funciton."
+      - title: "Rapid Speed"
+        desc: "1800Mbps speed max"
         icon: fab fa-markdown
-      - title: "Large selection of VOD embedded"
-        desc: "40000+ Movies, TV Show, Documentory, Cartoons etc. No ads, no limits, No extra fee"
+      - title: "Plug-and-Play"
+        desc: "Just plug in power and internet and that's it!"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Multi Platform Supported"
-        desc: "Android，iOS(iPhone & iPad)，Windows PC and Mac OS all supported"
+        desc: "All devices connect to the router will enjoy free internet."
         icon: fas fa-laptop
       - title: "7 Days free trial"
         desc: "We provide 7 days free trial"
@@ -54,23 +54,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "First Release"
-        year: "2009-2010"
-        desc: "Special device announced with High Resolution Streaming."
+        year: "2020"
+        desc: "From an idea to a product!"
         image: assets/img/timeline/1.png
         alt:
-      - title: "Android apk release"
-        year: "2014"
-        desc: "Supports all kinds of Android Devices"
+      - title: "Fast nodes added"
+        year: "2021"
+        desc: "A lot of Nodes with low latency added."
         image: assets/img/timeline/2.png
         alt:
-      - title: "iOS app on App Store"
-        year: "2019"
-        desc: "iOS app with 7 days rewind function available on App Store for iPhone & iPad"
+      - title: "Remote Assistance Function Added."
+        year: "2021"
+        desc: "We are able to help customers to diagnose and solve problem remotely."
         image: assets/img/timeline/3.png
         alt:
-      - title: "Windows/Mac Supported"
-        year: "2021"
-        desc: "Windows PC msi file and Mac OS dmg package released"
+      - title: "More nodes added without price increase."
+        year: "2022"
+        desc: "EU nodes added along with other optimized nodes."
         image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
@@ -79,8 +79,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "Best Supplier in IPTV Market"
-    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!"
+    text: "Best VPN Router Supplier"
+    body: "We have a bunch of nodes across the world with low latency and smart auto-switch function enbedded."
     section: about
 
   iframe:
@@ -114,7 +114,7 @@ en: &DEFAULT_EN
       - name: "WeChat"
         role: ""
         image: assets/img/team/1.jpg
-      - name: "WeChat"
+      - name: "Telegram"
         role: ""
         image: assets/img/team/2.jpg
 
