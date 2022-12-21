@@ -9,7 +9,7 @@ caption:
   subtitle: RMB 650
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-WIFI 6 Router
+WIFI 6 ASUS Router
 
 Router, Power Cord, Network Cable comes together.
 
