@@ -32,11 +32,11 @@ If you have a wall port, then connect to the wall port.
 
 3.1 For LAN connection, plug ethernet cable to Rapid Router’s LAN port.
     
-    ![Step-5.png](assets/img/tutorial/Step-5.png)
+![Step-5.png](assets/img/tutorial/Step-5.png)
     
 3.2 Plug the other end to your computer.
     
-    ![Step-6.png](assets/img/tutorial/Step-6.png)
+![Step-6.png](assets/img/tutorial/Step-6.png)
     
 
 3.3 For WIFI Connection
