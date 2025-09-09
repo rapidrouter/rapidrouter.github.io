@@ -30,21 +30,21 @@ If you have a wall port, then connect to the wall port.
 
 ## Step 3. Start Using
 
-1. For LAN connection, plug ethernet cable to Rapid Router’s LAN port.
+3.1 For LAN connection, plug ethernet cable to Rapid Router’s LAN port.
     
     ![Step-5.png](assets/img/tutorial/Step-5.png)
     
-2. Plug the other end to your computer.
+3.2 Plug the other end to your computer.
     
     ![Step-6.png](assets/img/tutorial/Step-6.png)
     
 
-2. For WIFI Connection
+3.3 For WIFI Connection
 
-2.1 Input password: R@pidR0uter for WIFI name: RapidRouter on computer
+3.4 Input password: R@pidR0uter for WIFI name: RapidRouter on computer
 
 ![connect-wifi-with-changed-password2.png](assets/img/tutorial/connect-wifi-with-changed-password2.png)
 
-2.2 Input password: R@pidR0uter for WIFI name: RapidRouter on iPhone/Android/iPad etc.
+3.5 Input password: R@pidR0uter for WIFI name: RapidRouter on iPhone/Android/iPad etc.
 
 ![Step-7.png](assets/img/tutorial/Step-7.png)
