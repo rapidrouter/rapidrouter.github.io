@@ -140,18 +140,25 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://wechat.com
-        icon: "fab fa-weixin"
-      - url: https://line.com
-        icon: "fab fa-line"
-      - url: https://alipay.comm
-        icon: "fab fa-alipay"
-      - url: https://visa.com
-        icon: "fab fa-cc-visa"
-      - url: https://mastercard.com
-        icon: "fab fa-cc-mastercard"
-      - url: https://bitcoin.org
-        icon: "fab fa-bitcoin"
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 en-US:
   <<: *DEFAULT_EN
 en-CA:
