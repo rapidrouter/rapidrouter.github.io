@@ -28,7 +28,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       url: https://rapidrouter.net/#contact
     - title: "Tutorial"
-      url: https://rapidrouter.net/Tutorial
+      url: https://rapidrouter.net/tutorial
 en-US:
   <<: *DEFAULT_EN
 en-CA:
